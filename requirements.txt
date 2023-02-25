@@ -1,5 +1,5 @@
 Flask
 pandas
--U scikit-learn
+sklearn
 pickle
 re
