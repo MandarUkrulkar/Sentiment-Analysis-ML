@@ -2,4 +2,4 @@ Flask
 pandas
 sklearn
 regex
-pickle
+pickle3
