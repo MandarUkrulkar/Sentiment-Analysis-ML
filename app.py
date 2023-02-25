@@ -8,7 +8,7 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
-@app.route('/predict',methods=['POST'])
+@app.route('/predict',methods=['POST','GET'])
 def predict():
     sample_review = request.form.get('iptext')
     import pandas as pd
