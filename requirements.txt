@@ -1,4 +1,5 @@
 Flask
 pandas
 sklearn
-re
+regex
+pickle5
