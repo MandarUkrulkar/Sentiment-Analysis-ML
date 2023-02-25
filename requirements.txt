@@ -63,11 +63,11 @@ numpy==1.23.4
 one-hot-encoder==1.1
 packaging==21.3
 pandas==1.5.1
-pandocfilters==1.5.0
-parso==0.8.3
-pathy==0.8.1
-pickleshare==0.7.5
-Pillow==9.3.0
+#pandocfilters==1.5.0
+#parso==0.8.3
+#pathy==0.8.1
+#pickleshare==0.7.5
+#Pillow==9.3.0
 #pipenv==2022.11.11
 #platformdirs==2.5.4
 #preshed==3.0.8
