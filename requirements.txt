@@ -1,5 +1,5 @@
 Flask
 pandas
-sklearn
+scikit-learn
 regex
 
